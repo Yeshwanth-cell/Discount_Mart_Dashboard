@@ -24,6 +24,8 @@ This project allowed me to enhance my data visualization skills and uncover valu
 - **Customer Analysis**: Understand customer segments and their buying patterns.
 - **Interactive Filters**: Allow users to dynamically explore the data by category, state, and region.
 
+>🌐 **Live Dashboard Link**: [View Dashboard Here](https://public.tableau.com/app/profile/yeshwanth.sureshkumar/viz/DiscountMartSalesAnalyticsYeshwanth/Dashboard1)
+  
 ---
 
 ## 🚀 Technologies Used
